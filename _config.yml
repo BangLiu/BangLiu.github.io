@@ -1,8 +1,8 @@
 # Site settings
 title:       Title
-email:       your_email@example.com
+email:       lbldtb@gmail.com
 author:      Bang Liu
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "My personal blog website."
 baseurl:     ""
 url:         "https://bangliu.github.io"
 date_format: "%b %-d, %Y"
