@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Hello, Pixyll
-date:       2014-06-12 15:31:19
-summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
-categories: jekyll pixyll
+title:      Generative Adversarial Networks: an Introduction
+date:       2018-07-18 00:00:00
+summary:    GANs are a catetory of generative models. I will give an intuitive introduction for GANs in this post.
+categories: GAN
 ---
 
 Hello.
