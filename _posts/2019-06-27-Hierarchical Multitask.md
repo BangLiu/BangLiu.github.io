@@ -3,7 +3,7 @@ layout:     post
 title:      Paper reading - A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks
 date:       2019-06-27 00:00:00
 summary:    Summarize XLNet model and ideas.
-categories: paper reading
+categories: jekyll pixyll
 ---
 
 ## 问题 Problem
@@ -19,7 +19,7 @@ Construct task hierarchy according to their relation. Here choose NER, EMD (Enti
 
 ## Model
 
-## ![model](images/model.png)
+## <img src="https://www.dropbox.com/s/szibo0jhityykfi/model.png" alt="model structure"/>
 
 1. 结构 Structure
    Embedding： character emb + Glove + ELMo
