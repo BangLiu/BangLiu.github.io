@@ -21,7 +21,7 @@ Construct task hierarchy according to their relation. Here choose NER, EMD (Enti
 
 
 
-![model]({{"/images/model.png"|prepend:https://bangliu.github.io/}})
+![model]({{"/images/model.png"|prepend: site.baseurl}})
 
 1. 结构 Structure
    Embedding： character emb + Glove + ELMo
