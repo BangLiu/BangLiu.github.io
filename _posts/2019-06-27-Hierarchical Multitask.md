@@ -19,7 +19,7 @@ Construct task hierarchy according to their relation. Here choose NER, EMD (Enti
 
 ## Model
 
-## <img src="https://www.dropbox.com/s/szibo0jhityykfi/model.png" alt="model structure"/>
+![model structure](images/model.png "Logo Title Text 1")
 
 1. 结构 Structure
    Embedding： character emb + Glove + ELMo
