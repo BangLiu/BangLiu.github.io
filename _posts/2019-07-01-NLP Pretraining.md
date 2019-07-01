@@ -30,7 +30,7 @@ The model is same with BERT-Base for Chinese.
 
 The Whole Word Masking is illustrated by the following figure.
 
-[whole word masking]({{"/images/2019-07-01-whole-word-masking.png"|prepend: site.baseurl}}){:width="600px"}
+![whole word masking]({{"/images/2019-07-01-whole-word-masking.png"|prepend: site.baseurl}}){:width="600px"}
 
 ### Comments
 
@@ -48,7 +48,7 @@ Feed our knowledge about entities or phrases into BERT.
 
 Applied 3 different masking strategies: token masking, entity masking, phrase masking.
 
-[ERNIE masking]({{"/images/2019-07-01-ERNIE-masking.png"|prepend: site.baseurl}}){:width="600px"}
+![ERNIE masking]({{"/images/2019-07-01-ERNIE-masking.png"|prepend: site.baseurl}}){:width="600px"}
 
 ### Model
 
@@ -56,7 +56,7 @@ Same as BERT-Base. Utilized word/phrase segmentation for different languages. Us
 
 Apply multi-stage knowledge masking strategy to integrate phrase and entity level knowledge into the language representation.
 
-[ERNIE multi-stage masking]({{"/images/2019-07-01-ERNIE-multi-stage-masking.png"|prepend: site.baseurl}}){:width="600px"}
+![ERNIE multi-stage masking]({{"/images/2019-07-01-ERNIE-multi-stage-masking.png"|prepend: site.baseurl}}){:width="600px"}
 
 For data, it utilized different datasets: Wikipedia, Baidu Baike, Tieba, etc.
 
@@ -97,7 +97,7 @@ For embedding, it process all languages with the same Byte Pair Encoding vocabul
 
 ### Model
 
-[XLM-model-architecture]({{"/images/2019-07-01-XLM-model.png"|prepend: site.baseurl}}){:width="600px"}
+![XLM-model-architecture]({{"/images/2019-07-01-XLM-model.png"|prepend: site.baseurl}}){:width="600px"}
 
 Same structure with BERT.
 
@@ -120,7 +120,7 @@ Adapt BERT to sequence2sequence for text generation tasks.
 
 ### Model
 
-[MASS model]({{"/images/2019-07-01-MASS-model.png"|prepend: site.baseurl}}){:width="600px"}
+![MASS model]({{"/images/2019-07-01-MASS-model.png"|prepend: site.baseurl}}){:width="600px"}
 
 Encoder-Decoder structure. 6-layer transformers for both encoder and decoder.
 
@@ -148,7 +148,7 @@ Unify different language modeling tasks in the same manner.
 
 ### Model
 
-[UNILM model]({{"/images/2019-07-01-UNILM-model.png"|prepend: site.baseurl}}){:width="600px"}
+![UNILM model]({{"/images/2019-07-01-UNILM-model.png"|prepend: site.baseurl}}){:width="600px"}
 
 Same model structure with BERT. Same input representation.
 
@@ -184,11 +184,11 @@ Changes in XLNet:
 
 ### Model
 
-[XLNet permutation language modeling]({{"/images/2019-07-01-XLNet-permutation-language-modeling.png"|prepend: site.baseurl}}){:width="600px"}
+![XLNet permutation language modeling]({{"/images/2019-07-01-XLNet-permutation-language-modeling.png"|prepend: site.baseurl}}){:width="600px"}
 
 Above shows permutation language modeling. Notice that when we predict the next token, we will have position information to tell us which postion we are predicting.
 
-[XLNet two-stream self-attention]({{"/images/2019-07-01-XLNet-two-stream-attention.png"|prepend: site.baseurl}}){:width="600px"}
+![XLNet two-stream self-attention]({{"/images/2019-07-01-XLNet-two-stream-attention.png"|prepend: site.baseurl}}){:width="600px"}
 
 Above shows how masked two-stream self-attention mechanism works. The mask controls what context words each position can attend to.
 
