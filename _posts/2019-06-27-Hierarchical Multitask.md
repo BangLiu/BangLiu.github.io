@@ -3,7 +3,7 @@ layout:     post
 title:      Paper reading - A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks
 date:       2019-06-27 00:00:00
 summary:    Summarize XLNet model and ideas.
-categories: jekyll pixyll
+categories: paper reading
 ---
 
 ## 问题
