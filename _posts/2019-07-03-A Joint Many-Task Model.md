@@ -19,7 +19,7 @@ Perform multi-tasks in a hierarchical manner. Train a multi-layer model for mult
 
 ## Model
 
-![Joint Many-Task Model]({{"/images/2019-07-03-Joint-model.png"|prepend: site.baseurl}}){:width="600px"}
+![Joint Many-Task Model]({{"/images/2019-07-03-Joint-model.png"|prepend: site.baseurl}}){:width="350px"}
 
 1. Structure
 
