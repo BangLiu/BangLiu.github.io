@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      NLP benchmarks 
+title:      NLP Benchmarks 
 date:       2019-07-04 16:00:00
 summary:    Briefly summarize a few benchmarks.
 categories: survey
