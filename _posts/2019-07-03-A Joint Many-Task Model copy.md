@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Paper reading - A Joint Many-Task Model, Growing a Neural Network for Multiple NLP Tasks
+title:      Paper Reading - A Joint Many-Task Model, Growing a Neural Network for Multiple NLP Tasks
 date:       2019-07-03 00:00:00
 summary:    It trains a 5 layers BiLSTM for 5 tasks, frow low-level to high-level.
 categories: paper reading

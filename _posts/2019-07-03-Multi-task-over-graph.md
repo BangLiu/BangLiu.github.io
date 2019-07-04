@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Paper reading - Multi-task Learning over Graph Structures
+title:      Paper Reading - Multi-task Learning over Graph Structures
 date:       2019-07-03 00:00:00
 summary:    It learn complete graph or star graph relatedness over different tasks.
 categories: paper reading

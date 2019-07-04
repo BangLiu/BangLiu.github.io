@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      NLP Pretraining - From BERT to XLNet 
+title:      NLP Pretraining - from BERT to XLNet 
 date:       2019-07-01 12:00:00
 summary:    Summarize a few works after BERT.
 categories: survey
