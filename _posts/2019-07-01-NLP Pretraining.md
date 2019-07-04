@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      From BERT to XLNet - Inspiration from Recent Research Works about NLP Pretraining 
+title:      NLP Pretraining - From BERT to XLNet 
 date:       2019-07-01 12:00:00
 summary:    Summarize a few works after BERT.
 categories: survey
@@ -206,7 +206,7 @@ We can see that, these tasks are trying to improve BERT from different aspects:
 2. **XLM** Cross-lingual BERT: incorporate parallel sentences as supervised training objective.
 3. **MASS** Seq2Seq for generation: masked language modeling.
 4. **UNILM** Unifying understanding and generation tasks: add different language modeling tasks and utilize mask matrices for different tasks. Share the same encoder for different tasks.
-5.  **XLNet** Design new permutation language modeling tasks to combine AR and AE model benefits. Use masked two-stream self-attention and compute two representation for each token. Incorporating Transformer-XL to modeling long text.
+5. **XLNet** Design new permutation language modeling tasks to combine AR and AE model benefits. Use masked two-stream self-attention and compute two representation for each token. Incorporating Transformer-XL to modeling long text.
 
 Combining different pre-training objectives (or tasks), utilizing mask matrices, better transformer for long text, cross-lingual datasets, etc., these ideas are key to these models.
 

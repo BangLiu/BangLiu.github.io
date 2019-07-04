@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Methods to Grow a Neural Network 
+title:      Grow a Neural Network 
 date:       2019-07-04 12:00:00
 summary:    Summarize a few works for network grow.
 categories: survey
