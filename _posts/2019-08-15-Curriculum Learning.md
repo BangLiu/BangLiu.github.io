@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Curriculum Learning 
-date:       2019-07-04 12:00:00
+date:       2019-08-15 12:00:00
 summary:    Summarize a few works for curriculum learning.
 categories: survey
 ---
